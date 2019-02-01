@@ -1,3 +1,13 @@
+# JetBrains specifics
+.idea/
+*.txt
+cmake-build-debug/
+CMakeLists.txt
+
+# Graphics specifics
+*.ppm
+*.png
+
 # Prerequisites
 *.d
 
